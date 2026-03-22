@@ -151,3 +151,4 @@ Then drag-and-drop the `dist/` folder into Cloudflare Pages **Direct Upload**.
 ## ⚖️ License
 
 MIT — do whatever you want with it. #KeepNostrWeird
+LFG
